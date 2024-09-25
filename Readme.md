@@ -25,3 +25,28 @@ steganography/
 ├── LICENSE           # License information
 └── requirements.txt  # Required Python packages
 ```
+
+# Current Usage:
+In today's world, it plays a significant role in various fields, especially for validation and ensuring uniqueness. Modern steganography often works in combination with cryptography, where the hidden message is first encrypted using cryptographic algorithms and then embedded within a cover medium. Only the intended recipient, equipped with the correct decryption tools, can access the concealed message.
+
+# Types:
+Steganography can be broadly divided into two types:
+
+Physical Steganography: In this type, both the secret message and the cover medium are physical objects, such as handwritten notes or printed materials. These items can be physically touched and handled.
+
+Digital Steganography: This method involves hiding data in digital formats. The hidden content and the cover medium consist of binary data (0s and 1s), created using computers or machines. In digital steganography, the general formula is:
+
+`(Secret object + Stego medium + Stego key) = Stego object`
+
+Secret Object: The information that needs to be hidden, such as text, images, or audio.
+Stego Medium: The medium used to conceal the secret, which could be a text file, audio file, or image.
+Stego Key: The process or method used to hide the secret within the stego medium.
+
+# Modern Digital Steganography Techniques:
+Steganography techniques have evolved, and modern digital methods can be categorized based on the type of media used for concealment:
+Text Steganography: Hiding messages within written text.
+Image Steganography: Embedding secrets in images.
+Audio Steganography: Concealing information in sound files.
+Video Steganography: Hiding data in video files.
+Network Steganography: Concealing messages within network protocols or traffic.
+By combining steganography with cryptography, we now have more secure ways of transmitting sensitive data, ensuring both confidentiality and undetectability.
