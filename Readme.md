@@ -23,3 +23,5 @@ steganography/
 ├── README.md             # Project documentation
 ├── LICENSE               # License information
 └── requirements.txt      # Required Python packages
+
+![image](https://github.com/user-attachments/assets/42db7087-5486-4bba-ad1b-1eed51233be1)
