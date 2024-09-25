@@ -5,6 +5,7 @@
 4) In this project, we'll concentrate on a text-based steganography. The secret is hidden within the text itself by continuously editing the text in a text document by inserting spaces or tabs in a certain pattern.
 
 # Structure: 
+'''
 steganography/
 │
 ├── src/                  # Source code for the project
@@ -22,6 +23,5 @@ steganography/
 │
 ├── README.md             # Project documentation
 ├── LICENSE               # License information
-└── requirements.txt      # Required Python packages
-
-![image](https://github.com/user-attachments/assets/42db7087-5486-4bba-ad1b-1eed51233be1)
+└── requirements.txt      # Required Python packages.
+'''
