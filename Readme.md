@@ -45,10 +45,16 @@ Stego Medium: The medium used to conceal the secret, which could be a text file,
 Stego Key: The process or method used to hide the secret within the stego medium.
 
 # Modern Digital Steganography Techniques:
-Steganography techniques have evolved, and modern digital methods can be categorized based on the type of media used for concealment:
-Text Steganography: Hiding messages within written text.
-Image Steganography: Embedding secrets in images.
-Audio Steganography: Concealing information in sound files.
-Video Steganography: Hiding data in video files.
-Network Steganography: Concealing messages within network protocols or traffic.
-By combining steganography with cryptography, we now have more secure ways of transmitting sensitive data, ensuring both confidentiality and undetectability.
+Steganography techniques have evolved significantly, and modern digital methods can be categorized based on the type of media used for concealment:
+
+1) Text Steganography: Hiding messages within written text.
+
+2) Image Steganography: Embedding secrets in images.
+
+3) Audio Steganography: Concealing information in sound files.
+
+4) Video Steganography: Hiding data in video files.
+
+5) Network Steganography: Concealing messages within network protocols or traffic.
+
+Combining steganography with cryptography provides even more secure ways to transmit sensitive data, ensuring both confidentiality and undetectability.
