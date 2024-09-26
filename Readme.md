@@ -4,6 +4,8 @@
 3) It can also be employed in text, images, or videos.
 4) In this project, we'll concentrate on a text-based steganography. The secret is hidden within the text itself by continuously editing the text in a text document by inserting spaces or tabs in a certain pattern.
 
+  ![image](https://github.com/user-attachments/assets/a553b2c9-88d1-4622-947d-efdb2c8728ff)
+
 # Structure: 
 ```
 steganography/
