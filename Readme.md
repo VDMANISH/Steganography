@@ -58,3 +58,14 @@ Steganography techniques have evolved significantly, and modern digital methods 
 5) Network Steganography: Concealing messages within network protocols or traffic.
 
 Combining steganography with cryptography provides even more secure ways to transmit sensitive data, ensuring both confidentiality and undetectability.
+
+# Modern Tools for Steganography :
+
+| Tool                  | Description                                                              |
+|-----------------------|--------------------------------------------------------------------------|
+| **Steghide**          | Hide secret message in image or audio file                               |
+| **Stegosuite**        | Hide text inside image                                                   |
+| **Xiao steganography**| Free software that can be used to hide secret message in BMP or WAV files|
+| **SSuite picsel**     | Portable application to hide text inside images                          |
+| **Openpuff**          | Could hide secret message in image, audio, or flash files                |
+| **Camouflage**        | Tool could use to hide any type of files inside of file                  |
