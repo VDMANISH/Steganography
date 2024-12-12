@@ -8,6 +8,9 @@
 
 # Structure: 
 ```
+Text-Based
+This project demonstrates a simple text-based steganography system that allows users to encode and decode secret messages using cover text. It uses basic text manipulation techniques and an optional encryption layer for added security.
+
 steganography/
 │
 ├── src/             
