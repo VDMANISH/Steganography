@@ -10,18 +10,14 @@
 ```
 steganography/
 │
-├── src/              # Source code - main one
-│ ├── encoder.py      # encoding secret messages
-│ ├── decoder.py      # decoding hidden messages
-│ └── utils.py        # Utility functions for the project
-│
-├── data/             # Sample data for testing
-│ ├── cover_text.txt  # cover text file
+├── src/             
+│ ├── encoderdecoder.py  # encoding decoding hidden messages
+|── data/                # Sample data
+│ ├── cover_text.txt     # cover text file
 │ └── secret_message.txt # secret message file
 │
-├── tests/            # Test cases for validation
-│ ├── test_encoder.py # Tests for the encoder
-│ └── test_decoder.py # Tests for the decoder
+├── tests/                # Test cases for validation
+│ ├── test_encoderdecoder # Tests for encoding decoding
 │
 ├── README.md         # Project documentation
 ├── LICENSE           # License information
