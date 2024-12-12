@@ -36,3 +36,16 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
+
+# How This Works:
+        
+# Length Check:
+# If the secret message is longer than the cover text, a warning is displayed.
+# Users can choose to proceed or stop and provide equal-length inputs.
+        
+# User Options:
+# If the user accepts the warning by typing "yes," the program encodes the input as-is, even if the lengths differ.
+# If the user declines, they are prompted to ensure equal lengths.
+        
+# Equal-Length Enforcement:
+# If the user chooses not to proceed, the program skips the encoding process until valid input is provided.
